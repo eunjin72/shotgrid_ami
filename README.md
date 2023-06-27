@@ -4,7 +4,7 @@
 
 ### Versions 페이지 업로드 된 Thumbnail(mp4)를 다운로드 하는 AMIs
 
-![ami](https://github.com/eunjin72/shotgrid_ami/assets/128131020/6abc31e5-a6dd-43fa-8fe9-6e42c463b24c)
+![ami1](https://github.com/eunjin72/shotgrid_ami/assets/128131020/03efc735-0160-4d7f-9bf3-f478e3d6e849)
 
 
 <br/>
